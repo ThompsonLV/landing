@@ -1,0 +1,18 @@
+.btn{
+  width: 100px;
+  color: white;
+  font-weight: medium;
+  background: rgb(164, 80, 139);
+  border-radius: 12px 4px 12px 4px;
+  box-shadow: 0 0 20px rgba(41, 41, 41, 0.5);
+  padding: 12px 20px;
+  transition: 500ms;
+  margin: 0px;
+  text-align: center;
+}
+
+.btn:hover{
+  background: rgb(95, 10, 135);
+  border-radius: 8px 24px 8px 24px;
+  box-shadow: 0 0 40px rgba(41, 41, 41, 0.3);
+}
